@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Outing Support Application</string>
+    <string name="title">Outing Support Application</string>
+    <string name="current_hint">Current</string>
+    <string name="waypoint_hint">Way point</string>
+    <string name="destination_hint">Destination</string>
+    <string name="alarm_title">ALARM</string>
+    <string name="time_set">TIME SET</string>
+    <string name="alarm_set">SET ALARM</string>
+    <string name="alarm_cancel">CANCEL ALARM</string>
+    <string name="subject">SUBJECT</string>
+    <string name="message">MESSAGE</string>
+    <string name="send">SEND</string>
+</resources>
